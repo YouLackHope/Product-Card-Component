@@ -28,6 +28,7 @@ h2 span, main p {
     font-weight: 400;
 }
 
+
 main p {
     margin-top: 5px;
 }
@@ -60,9 +61,11 @@ main p {
     border-top: 1px solid hsl(0, 0%, 59%);
 }
 
-.num > p{
+.num > p {
     display: block;
+    color: hsl(0, 0%, 59%);
     font-weight: 400;
+    font-size: 0.8rem;
 }
 
 .num > h2 {
